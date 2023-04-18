@@ -1,7 +1,7 @@
-<center> <h1>Hey 👋, I'm James!</h1> </center>
-<center> <h3>**` Physicist (Software Engineer)`**  </h3> </center>
-<center> <h3><a href='https://www.linkedin.com/in/james-a-hodson/'><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height='18px'/></a>  </h3> </center>
+# Hey 👋, I'm [James!](https://github.com/jamesdidathing)
+**` Physicist (Software Engineer) `**
 
+<a href='https://www.linkedin.com/in/james-a-hodson/'><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height='18px'/></a> ![Visitor Count](https://komarev.com/ghpvc/?username=jamesdidathing&color=green)
 
 -----------------------------------
 
