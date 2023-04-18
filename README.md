@@ -9,7 +9,7 @@
 
 I am a graduate in Physics 🎓 from the University of Bath 🏛 , working in the world of scientific research 🔬 for over 3 years! Having started my career in radiation analysis ☢️, I quickly evolved my passion into programming 💻 and haven't looked back.
 
-Joined Github **2** years ago (unofficially) but only started my personal projects Git recently...
+Joined Github **2** years ago (unofficially) but only started my personal projects Git recently... The purpose of this GitHub is to have a place to show the other projects I am beginning to work on.
 
 ### Talking about Personal Stuffs:
 
@@ -27,8 +27,18 @@ Joined Github **2** years ago (unofficially) but only started my personal projec
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
+<br/><br/>
+
+
 ## Projects 📫 (not all have repos, I know)
 - Van Monitoring System
 - Moisture Sensor (Arduino)
 - Learning Full Stack Development!
-- + Whatever else I can make time for ⏱️
+- And whatever else I can make time for ⏱️
+
+<br/><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesdidathing&show_icons=true&theme=radical" />
+</a>
+
+
