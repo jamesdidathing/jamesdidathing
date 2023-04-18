@@ -2,7 +2,8 @@
 **` Physicist (Software Engineer) `**
 
 <a href='https://www.linkedin.com/in/james-a-hodson/'><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height='18px'/></a> 
-### Glad to see you here! &nbsp; ![Visitor Count](https://komarev.com/ghpvc/?username=jamesdidathing&color=green)
+
+*Glad to see you here!* &nbsp; ![Visitor Count](https://komarev.com/ghpvc/?username=jamesdidathing&color=green)
 
 -----------------------------------
 
@@ -16,3 +17,12 @@ Joined Github **2** years ago (unofficially) but only started my personal projec
 - 🌱 &nbsp; I’m currently learning things like Full Stack Development as well as database management.
 - 👨🏻‍💻 &nbsp; Most of my (non-work related) projects are available here [Github](https://github.com/jamesdidathing).
 - 📫 &nbsp; How to reach me: jamesalexhodson@gmail.com.
+
+## 🔨 Languages and Tools 🔨:
+<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
