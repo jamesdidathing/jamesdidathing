@@ -4,6 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-a-hodson/)](https://www.linkedin.com/in/james-a-hodson/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jamesalexhodson@gmail.com)](mailto:jamesalexhodson@gmail.com)
 ![Visitor Count](https://komarev.com/ghpvc/?username=jamesdidathing&color=green)
+
+
+![Testing](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white&link=mailto:jamesalexhodson@gmail.com)
 -----------------------------------
 
 I am a graduate in Physics 🎓 from the University of Bath 🏛 , working in the world of scientific research 🔬 for over 3 years! Having started my career in radiation analysis ☢️, I quickly evolved into programming 💻 Thanks for visiting and please [connect](https://www.linkedin.com/in/james-a-hodson/)!
@@ -31,7 +34,7 @@ Joined Github **2** years ago (unofficially) but only started my personal projec
 ## Projects 📫 (not all have repos, I know)
 - Van Monitoring System
 - Moisture Sensor (Arduino)
-- Learning Full Stack Development!
+- Learning Full Stack Development (HTML, CSS, JavaScript)
 - And whatever else I can make time for ⏱️
 
 <br/><br/>
