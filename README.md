@@ -7,7 +7,7 @@
 
 -----------------------------------
 
-I am a graduate in Physics 🎓 from the University of Bath 🏛 , working in the world of scientific research 🔬 for over 3 years! Having started my career in radiation analysis ☢️, I quickly evolved my passion into programming 💻 and haven't looked back.
+I am a graduate in Physics 🎓 from the University of Bath 🏛 , working in the world of scientific research 🔬 for over 3 years! Having started my career in radiation analysis ☢️, I quickly evolved into programming 💻 and haven't looked back.
 
 Joined Github **2** years ago (unofficially) but only started my personal projects Git recently... The purpose of this GitHub is to have a place to show the other projects I am beginning to work on.
 
