@@ -7,7 +7,7 @@
 
 -----------------------------------
 
-I am a graduate in Physics 🎓 from the University of Bath 🏛 , working in scientific research 🔬 for over 3 years! Having started my career in radiation analysis ☢️, I quickly evolved into programming 💻 Thanks for visiting and please [connect](https://www.linkedin.com/in/james-a-hodson/)!
+I am a graduate in Physics from the University of Bath 🏛 , working in scientific research for over 3 years 🔬. Having started my career in radiation analysis, I quickly evolved into programming, working on data analysis and performance 💻. 
 
 Joined Github **2** years ago (unofficially) but only started my personal projects Git recently... The purpose of this GitHub is to have a place to show the other projects I am beginning to work on.
 
@@ -31,13 +31,14 @@ Joined Github **2** years ago (unofficially) but only started my personal projec
 
 
 <br/><br/>
-
-
 ## Projects 📫 (not all have repos, I know)
 - Van Monitoring System
 - Moisture Sensor (Arduino)
 - Learning Full Stack Development (HTML, CSS, JavaScript)
+- Understanding multiprocessing
 - And whatever else I can make time for ⏱️
+
+Please [connect](https://www.linkedin.com/in/james-a-hodson/)!
 
 <br/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
