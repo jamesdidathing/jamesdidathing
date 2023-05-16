@@ -15,7 +15,7 @@ Joined Github **2** years ago (unofficially) but only started my personal projec
 - 🛠 &nbsp; I’m currently working with Python, utilising frameworks like dash and flask.
 - 🌱 &nbsp; I’m currently learning things like Full Stack Development as well as database management.
 - 👨🏻‍💻 &nbsp; Most of my (non-work related) projects are available here [Github](https://github.com/jamesdidathing).
-- 📫 &nbsp; How to reach me: jamesalexhodson@gmail.com.
+- 📫 &nbsp; How to reach me: [LinkedIn](https://www.linkedin.com/in/james-a-hodson/)
 
 ## 💡 Languages 💡:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
