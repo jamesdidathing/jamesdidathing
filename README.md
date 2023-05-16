@@ -2,7 +2,6 @@
 **` Physicist (Software Engineer) `**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-a-hodson/)](https://www.linkedin.com/in/james-a-hodson/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jamesalexhodson@gmail.com)](mailto:jamesalexhodson@gmail.com)
 ![Visitor Count](https://komarev.com/ghpvc/?username=jamesdidathing&color=green)
 
 -----------------------------------
