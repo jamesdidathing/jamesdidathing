@@ -1,10 +1,18 @@
-# Hey 👋, I'm [James!](https://github.com/jamesdidathing)
-**` Physicist (Software Engineer) `**
+<div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&width=435&lines=Hi+there,+I'm+James!;Welcome+to+my+GitHub+:);">
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-a-hodson/)](https://www.linkedin.com/in/james-a-hodson/)
-![Visitor Count](https://komarev.com/ghpvc/?username=jamesdidathing&color=green)
+<div align="center">
 
+  <a href="https://www.linkedin.com/in/james-a-hodson/">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-a-hodson/)</a>
+  <a href="">![Visitor Count](https://komarev.com/ghpvc/?username=jamesdidathing&color=green)</a>
+  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+
+</div>
+  
 -----------------------------------
+
+
 
 I am a graduate in Physics from the University of Bath 🏛 , working in scientific research for over 3 years 🔬. Having started my career in radiation analysis, I quickly evolved into programming, working on data analysis and performance 💻. 
 
