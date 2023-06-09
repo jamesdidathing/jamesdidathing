@@ -6,7 +6,6 @@
 
   <a href="https://www.linkedin.com/in/james-a-hodson/">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-a-hodson/)</a>
   <a href="">![Visitor Count](https://komarev.com/ghpvc/?username=jamesdidathing&color=green)</a>
-  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
 
 </div>
   
