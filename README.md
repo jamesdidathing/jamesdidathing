@@ -20,6 +20,7 @@ Joined Github **2** years ago (unofficially) but only started my personal projec
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Python, utilising frameworks like dash and flask for web dev.
+- 🔨 &nbsp; Current professional work includes performance computing with CPU and GPU hardware.
 - 🌱 &nbsp; I’m currently learning things like Full Stack Development as well as database management.
 - 👨🏻‍💻 &nbsp; Most of my (non-work related) projects are available here [Github](https://github.com/jamesdidathing).
 - 📫 &nbsp; How to reach me: [LinkedIn](https://www.linkedin.com/in/james-a-hodson/)
