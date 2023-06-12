@@ -26,16 +26,10 @@ Joined Github **2** years ago (unofficially) but only started my personal projec
 - 📫 &nbsp; How to reach me: [LinkedIn](https://www.linkedin.com/in/james-a-hodson/)
 
 ## 💡 Languages 💡:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+[![My Skills](https://skills.thijs.gg/icons?i=python,html,css,latex)](https://skills.thijs.gg)
 
 ## 🔨 Tools 🔨:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+[![My Tools](https://skills.thijs.gg/icons?i=git,gitlab,vscode,linux)](https://skills.thijs.gg)
 
 <br/><br/>
 ## Projects 📫 (not all have repos, I know)
