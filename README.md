@@ -41,10 +41,4 @@ Joined Github **2** years ago (unofficially) but only started my personal projec
 
 Please [connect](https://www.linkedin.com/in/james-a-hodson/)!
 
-<br/><br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesdidathing&show_icons=true&theme=radical" />
-</a>
-
-
 
