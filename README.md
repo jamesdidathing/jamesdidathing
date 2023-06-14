@@ -33,10 +33,9 @@ Joined Github **2** years ago (unofficially) but only started my personal projec
 
 <br/><br/>
 ## Projects 📫 (not all have repos, I know)
-- Van Monitoring System
-- Moisture Sensor (Arduino)
-- Learning Full Stack Development (HTML, CSS, JavaScript)
-- Understanding Multiprocessing and Multithreading
+- [Van Monitoring System](https://github.com/jamesdidathing/vanproj)
+- [Learning Full Stack Development](https://github.com/jamesdidathing/fullstacklearning) (HTML, CSS, JavaScript)
+- [Flask Application](https://github.com/jamesdidathing/py-frameworks)
 - And whatever else I can make time for ⏱️
 
 Please [connect](https://www.linkedin.com/in/james-a-hodson/)!
