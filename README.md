@@ -26,7 +26,7 @@ Joined Github **2** years ago (unofficially) but only started my personal projec
 - 📫 &nbsp; How to reach me: [LinkedIn](https://www.linkedin.com/in/james-a-hodson/)
 
 ## 💡 Languages 💡:
-[![My Skills](https://skills.thijs.gg/icons?i=python,html,css,latex)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python,html,css,flask,latex)](https://skills.thijs.gg)
 
 ## 🔨 Tools 🔨:
 [![My Tools](https://skills.thijs.gg/icons?i=git,gitlab,vscode,linux)](https://skills.thijs.gg)
